@@ -1,10 +1,32 @@
-# My Life in a Code Shell
+#### Block Code
 
-## This Is My Main Branch
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
 
+```
+def greatest_common_divisor(x,y):
+    print "For", x, "and", y,","  
+    r=x%y
+    while r>0:
+        r=x%y
+        if r ==0: 
+            print "the greatest common divisor is", y,"."
+        else:
+            q=y
+            x=q
+            y=r
 
-Hi, my name is Joe Brandt and there are a few things you could know about me!
-* I am a practicing stand-up comedian.
-* **Huge Sports Fanatic**
-* _Has made money_ playing competitve Madden and NHL 
-* Loves to theorize about the origins and the end of the world
+greatest_common_divisor(1071,1029)
+greatest_common_divisor(5538,1105)
+greatest_common_divisor(8764,7732)        
