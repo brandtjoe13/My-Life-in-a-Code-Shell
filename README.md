@@ -2,6 +2,8 @@
 
 #### Block Code
 
+###### This code is to find the greatest common divisor!
+
 ```python
 def greatest_common_divisor(x,y):
     print "For", x, "and", y,","  
