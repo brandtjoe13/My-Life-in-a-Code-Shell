@@ -1,4 +1,6 @@
  - to skip this section, click [here](https://github.com/brandtjoe13/My-Life-in-a-Code-Shell/tree/Block-Code)
+ 
+ ---
 
 ## My Accomplishments
 
