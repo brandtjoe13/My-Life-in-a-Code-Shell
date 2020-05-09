@@ -18,7 +18,7 @@ def greatest_common_divisor(x,y):
 greatest_common_divisor(1071,1029)
 greatest_common_divisor(5538,1105)
 greatest_common_divisor(8764,7732) 
-
+```
 
 
 - to go back to main branch, click [here](https://github.com/brandtjoe13/My-Life-in-a-Code-Shell/blob/master/README.md)
